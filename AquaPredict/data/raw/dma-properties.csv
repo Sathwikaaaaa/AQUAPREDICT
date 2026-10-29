@@ -1,0 +1,11 @@
+,Short name,Description,Category,Population,Mean hourly flow (L/s/hour)
+DMA 1,1,Hospital district,hospital,162,8.4
+DMA 2,2,Residential district in the countryside,res-cside,531,9.6
+DMA 3,3,Residential district in the countryside,res-cside,607,4.3
+DMA 4,4,Suburban residential/commercial district,suburb-res/com,2094,32.9
+DMA 5,5,Residential/commercial district close to the city centre,rses/com-close,7955,78.3
+DMA 6,6,Suburban district including sport facilities and office buildings,suburb-sport/off,1135,8.1
+DMA 7,7,Residential district close to the city centre,res-close,3180,25.1
+DMA 8,8,City centre district,city,2901,20.8
+DMA 9,9,Commercial/industrial district close to the port,port,425,20.6
+DMA 10,10,Commercial/industrial district close to the port,port,776,26.4
